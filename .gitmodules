@@ -1,0 +1,3 @@
+[submodule "script"]
+	path = script
+	url = git@github.com:Dwica2004/belajar-git-remote.git
